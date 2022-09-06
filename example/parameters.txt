@@ -1,0 +1,4 @@
+control	spearman.multiomics.merged.filtered.nonUsers.csv
+disease	spearman.multiomics.merged.filtered.users.csv
+numcontrol	25
+numdisease	25
